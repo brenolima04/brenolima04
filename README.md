@@ -1,7 +1,7 @@
 ## Olá, eu sou o Breno Lima 👋
 
 - 👨‍💻 Front-end Developer.
-- 🌱 Eu estou atualmente aprendendo Typescript.
+- 🌱 Atualmente aprendendo Typescript.
 - 💙 HTML5, CSS3, Javascript, Bootstrap, ReactJS, Sass.
  
  
