@@ -2,7 +2,7 @@
 
 - 👨‍💻 Front-end Developer.
 - 🌱 Atualmente aprendendo Typescript.
-- 💙 HTML5, CSS3, Javascript, Bootstrap, ReactJS, Sass.
+- 💙 HTML5, CSS3, Javascript, Bootstrap, ReactJS, Sass, GIT/GITHUB.
  
  
 ## Skills 🤓
